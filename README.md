@@ -1,1 +1,2 @@
-"Branch1 change" 
+Branch1 change
+Branch2 change
